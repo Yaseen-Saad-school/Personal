@@ -28,12 +28,12 @@ Welcome to **Yaseen's Zone**, a personal portfolio website showcasing my journey
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Yaseen-Saad-School/portfolio.git
+   git clone https://github.com/Yaseen-Saad-School/personal.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd portfolio
+   cd personal
    ```
 
 3. Open `index.html` in your browser to view the website locally.
@@ -49,7 +49,6 @@ project-root/
 |-- script.js        # Custom JavaScript for functionality
 |-- me.jpg           # Profile image
 |-- README.md        # Project documentation
-|-- /assets          # Additional assets (images, fonts, etc.)
 ```
 
 ## Preview
