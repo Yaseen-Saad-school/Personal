@@ -54,7 +54,7 @@ project-root/
 
 ## Preview
 
-![Website Screenshot](./screenshot.png)
+![Website Screenshot](https://cloud-9yyt4m0pt-hack-club-bot.vercel.app/0image.png)
 
 ## Live Demo
 
